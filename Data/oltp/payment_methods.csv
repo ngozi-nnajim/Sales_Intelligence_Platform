@@ -1,0 +1,6 @@
+payment_id,payment_mode
+1,UPI
+2,Debit Card
+3,EMI
+4,Credit Card
+5,COD
