@@ -219,3 +219,5 @@ __marimo__/
 
 # other files
 .DS_Store
+.$SIP_ERD.drawio.bkp
+.ipynb_checkpoints
