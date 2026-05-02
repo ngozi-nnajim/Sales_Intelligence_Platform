@@ -68,7 +68,7 @@ def load_oltp():
     log.info('OLTP loading complete.')
 
 
-# ── OLAP Loader ──────────────────────────────────────────────────────────────
+# OLAP Loader Function
 
 def load_olap():
     engine = create_engine(OLAP_URL)
