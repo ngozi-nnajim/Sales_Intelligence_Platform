@@ -2,6 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
+*.pyc
 
 # C extensions
 *.so
@@ -77,6 +78,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.ipynb_checkpoints/
 
 # IPython
 profile_default/
@@ -220,4 +222,3 @@ __marimo__/
 # other files
 .DS_Store
 .$SIP_ERD.drawio.bkp
-.ipynb_checkpoints
